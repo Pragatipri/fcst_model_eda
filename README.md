@@ -5,7 +5,9 @@ To develop a machine learning–based hybrid sales forecasting framework for the
 
 ## Objectives
 This project focuses on one of the objectives of the project:
+
 Acquire and prepare a retail dataset. Conduct EDA.
+
 Compile or generate ~10k+ sales records at SKU and category levels.
 Clean, transform, and engineer features
 Ensure the dataset is suitable for hierarchical forecasting.
