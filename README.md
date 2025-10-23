@@ -4,9 +4,9 @@
 To develop a machine learning–based hybrid sales forecasting framework for the retail sector that improves accuracy, reduces human bias, and supports financial planning through scenario modelling and comparative analysis of forecasting methods.
 
 ## Objectives
-This project focuses on one of the objectives of the project:
+This file focuses on one of the objectives of the project:
 
-Acquire and prepare a retail dataset. Conduct EDA.
+>> Acquire and prepare a retail dataset. Conduct EDA.
 
 Compile or generate ~10k+ sales records at SKU and category levels.
 Clean, transform, and engineer features
